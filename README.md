@@ -1,0 +1,1 @@
+This repository contains the onboarding and integration guide for the Hospitality Channel API. I created it to help make the integration process as smooth as possible. Inside the PDF, you'll find details on the architecture and best practices. Feel free to take a look around!
